@@ -7,4 +7,4 @@ Repositório criado demonstrando como utilizar o Docker.
 - print03: baixando uma imagem no Docker Playground
 - print04: rodando uma imagem no Docker Playground
 
-Estes conceitos foram introduzidos na aula de DevOps com o intuito de conhecer a plataforma Docker e seus conceitos.
+Estes conceitos foram introduzidos na aula de DevOps com o intuito de conhecer a plataforma Docker e suas aplicações.
